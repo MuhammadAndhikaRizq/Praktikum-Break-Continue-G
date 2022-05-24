@@ -1,4 +1,7 @@
-# PraktikumBreak1
+#PraktikumBreak1
+##Menentukan kecepatan processor pada smartphone
+
+```
 
 #include <iostream>
 
@@ -71,3 +74,5 @@ int main() {
   }
 
 }
+
+```
