@@ -1,5 +1,5 @@
-#PraktikumBreak1
-##Menentukan kecepatan processor pada smartphone
+# PraktikumBreak1
+## Menentukan kecepatan processor pada smartphone
 
 ```
 
