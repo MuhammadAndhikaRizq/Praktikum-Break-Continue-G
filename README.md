@@ -1,3 +1,4 @@
+# Praktikum1KelasG
 # PraktikumBreak1
 ## Menentukan kecepatan processor pada smartphone
 
